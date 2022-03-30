@@ -1,0 +1,2 @@
+ - Implement non-clockstretched mode
+ - Investigate why SOFT_RESET needs a BREAK in periodic mode first. Otherwise it's getting NACKed.
