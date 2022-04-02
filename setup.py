@@ -5,7 +5,7 @@ setup(
     version='0.0.2',
     packages=['pySHT3x'],
     install_requires=['pyFTDI==0.54.0', 'crcengine==0.3.2'],
-    url='',
+    url='https://github.com/dm5tt/pySHT3x',
     license='GNU GPLv3',
     author='Holger Adams',
     author_email='mail@dm5tt.de',
